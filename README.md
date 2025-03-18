@@ -25,4 +25,5 @@ o cualquier ocacion.
 ## Instalación y uso
 1. Clona el repositorio:
 
-2. 
+2.Juega
+https://amigo-secreto-peach-iota.vercel.app/
